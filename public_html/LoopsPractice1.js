@@ -10,4 +10,4 @@ while (counter <= 10) {
     counter = counter + 1;
 }
 
-
+document.write("End");
